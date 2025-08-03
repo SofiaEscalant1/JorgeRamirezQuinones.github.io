@@ -59,12 +59,12 @@ body {
 }
 
 .btn-color {
-    background-color: #ffff00;
-    border: 1px solid #e7e700;
+    background-color: #f50fb0ac;
+    border: 1px solid #f50fb0ac;
 }
 
 .btn-color:hover {
-    background-color: #e7e700;
+    background-color: #f50fb0ac;
 }
 
 .seccion-1 {
@@ -144,11 +144,11 @@ body {
     }
 
     .enlaces-footer a:hover {
-        color:#d7a100;
+        color:#700851ac;
     }
 
 .hr2 {
-    color: #d7a100;
+    color: #700851ac;
 }
 
 .textoExplicativo {
